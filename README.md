@@ -24,8 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create a Microsoft Azure account
-- Create a Resource Group (Create a Windows 10 Virtual machine and Create a Linux 'Ubuntu' virtual machine)
+- Create a Windows 10 Virtual machine and Create a Linux 'Ubuntu' virtual machine)
 - Use Remote Desktop to connect to your Windows 10 Virtual Machine and install Wireshark
 - Open Wireshark and filter for ICMP traffic only
 - Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM
